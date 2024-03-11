@@ -7,7 +7,7 @@ Gamma 3D is an OpenGL 4 game engine I am making as a personal project. I am new 
 2. Then in a detailed short message describe what you did. eg. `fixed memory leak on line 132`.
 + So something like this: `[Textures]: fixed memory leak on line 132`.
 + If you add a new file `Added [Camera], [PointLight]`.
-+ So it easy for everyone to understand.
++ So it is easy for everyone to understand.
 
 ## OS supprt
 | OS                 |  Support  |
